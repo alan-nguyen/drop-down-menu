@@ -73,3 +73,7 @@ body {
   font-size: 0.8rem;
   border-radius: 5px;
 }
+
+#navbar ul li:hover ul li:hover span {
+  background: chocolate;
+}
