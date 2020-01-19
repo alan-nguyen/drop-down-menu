@@ -20,3 +20,8 @@ body {
   padding: 1rem;
   position: relative;
 }
+
+#navbar ul li a {
+  color: #333;
+  text-decoration: none;
+}
